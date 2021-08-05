@@ -16,9 +16,9 @@ This repository contains the [code](code.py) to print out the complete [lyrics](
 
 #### But why?
 > This is analogous to "Hello, World!" programs, with the addition of a loop. As with "Hello World!", this can be a practice exercise for those studying computer programming, and a demonstration of different programming paradigms dealing with looping constructs and syntactic differences between programming languages within a paradigm.
-[Wikipedia](https://en.wikipedia.org/wiki/99_Bottles_of_Beer#:~:text=References%20in%20computer%20science%5Bedit%5D)
+[Wikipedia](https://en.wikipedia.org/wiki/99_Bottles_of_Beer#References_in_computer_science)
 
 
-### Takeaway
+## Takeaway
 
-If you are a beginner to programming, don't forget to try doing this fun exercise! : )
+If you are a beginner to programming, don't forget trying this fun exercise! :)
